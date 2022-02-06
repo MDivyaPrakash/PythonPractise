@@ -1,4 +1,5 @@
-print('Hello World');
-print('jj');
-#hrr
-#htyii
+#!/usr/bin/env python3
+print('Hello World')
+x=1;
+print("This is x {}".format(x))
+
