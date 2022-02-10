@@ -47,5 +47,35 @@ if Id1[0] != Id2[0]:
     print("Yeah")
 elif Id1 is Id2:
     print("Nope")
-# In IF is is used for values and isintance is used to compare the type.
+# In IF is - is used for values and is instance is used to compare the type.
+
+#Conditional
+grt = 10
+if grt == 10:
+    print("If Yes")
+elif grt == 4:
+    print("Elif yes")
+else:
+    print("else")
+#Operators
+# +,-,/, // --> Integer.
+add1 = 3
+add2 = 4
+add3 = add1 + add2
+prntn(add3)
+#BitWise operators(Printing the bitwise operators are different
+kk = 0x0a
+kl = 0x02
+z = x & y
+#Note here different notations can be used like x,n
+print(f'in hex {kk:02x}')
+print(f'in binary {kl:08b}')
+# also there are boolean
+#input() command is used to take the input values
+
+
+
+
+
+
 
