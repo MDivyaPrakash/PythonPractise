@@ -1,0 +1,2 @@
+# PythonPractise
+Starting of python
